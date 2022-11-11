@@ -1,0 +1,31 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for HDP IBM Nalaiyathiran",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.7.2",
+    "order-id": "^2.1.2",
+    "shortid": "^2.2.16",
+    "uuid": "^9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DANUSHRAJ/Heart_Disease_Pred_Server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DANUSHRAJ/Heart_Disease_Pred_Server/issues"
+  },
+  "homepage": "https://github.com/DANUSHRAJ/Heart_Disease_Pred_Server#readme"
+}
