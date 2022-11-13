@@ -2,7 +2,7 @@
 
 <h2><b>Sprint-2 Tasks Completed</b></h2>
 
-<p>UI Design & Login Signup Auth using FireBase Completed on 05-11-2022</p>
+<p>UI Design & Login Signup Auth using FireBase And Built a Heart Disease Prediction Model - Completed on 05-11-2022</p>
 <h1>1</h1>
 <img src = "https://user-images.githubusercontent.com/60309916/200127324-2a657789-99cb-42d5-b901-fda19f42a980.jpg"/>
 <h1>2</h1>
