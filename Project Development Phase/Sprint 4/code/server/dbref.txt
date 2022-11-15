@@ -1,0 +1,14 @@
+const { MongoClient } = require('mongodb');
+
+const uri = "mongodb+srv://danushforibm:tSF4B3VwNL4beIRL@cluster0.ibfdv3w.mongodb.net/?retryWrites=true&w=majority";
+const client = new MongoClient(uri);
+async function connect() {
+  try {
+    await client.connect();
+    console.log('Connected');
+  } catch (err) {
+    console.log(err);
+  }
+}
+connect();
+module.exports = client;
